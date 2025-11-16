@@ -8,6 +8,7 @@
   <li><em>Learning</em> more about open-source collaboration.</li>
   <li><em>Developing</em> useful, community-driven projects.</li>
 </ul>
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white)
